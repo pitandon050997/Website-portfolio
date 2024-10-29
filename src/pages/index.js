@@ -42,15 +42,16 @@ export default function Home() {
                 challenge is an opportunity to innovate, and every idea has the
                 potential to transform our future. By merging technology and
                 design, I strive to build solutions that inspire, uplift, and
-                empower. Let's create a legacy of progress and make the
+                empower. Let &apos;s create a legacy of progress and make the
                 impossible possible—together.
-                <p className="my-4 text-base font-medium md:text-sm sm:!text-xs">
+              </p>
+              <p className="my-4 text-base font-medium md:text-sm sm:!text-xs">
                   Explore my journey, discover my projects, and be a part of my life that redefines what engineering can achieve.
-                </p>
+              
               </p>
               <div className="mt-2 flex items-center self-start lg:self-center">
                 <Link
-                  href="/Piyush's Resume.pdf"
+                  href="/Piyush Resume.pdf"
                   target={"_blank"}
                   className={`flex items-center rounded-lg border-2 border-solid bg-dark p-2.5 px-6 text-lg font-semibold
             capitalize text-light hover:border-dark hover:bg-transparent hover:text-dark 

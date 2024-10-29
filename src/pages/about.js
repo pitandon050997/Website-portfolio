@@ -58,20 +58,18 @@ export default function About() {
                 BIOGRAPHY
               </h2>
               <p className="font-medium ">
-                Hi, I&apos;m <strong>Piyush Tandon</strong>, a technology enthusiast at heart, driven by a passion for solving complex problems across multiple domains. With a Master&apos;s degree in <strong>Mechanical Engineering</strong> from the <strong> University of Washington</strong> and a background that spans <strong> Manufacturing, Product Design engineering, Data science, and Project management,</strong> I thrive at the intersection of technology and innovation.
+  Hi, I&apos;m <strong>Piyush Tandon</strong>, a technology enthusiast at heart, driven by a passion for solving complex problems across multiple domains. With a Master&apos;s degree in <strong>Mechanical Engineering</strong> from the <strong>University of Washington</strong> and a background that spans <strong>Manufacturing, Product Design engineering, Data science, and Project management,</strong> I thrive at the intersection of technology and innovation.
 
-Whether it&apos;s optimizing mechanical systems, developing AI-driven solutions, or managing large-scale projects, I am deeply committed to pushing boundaries and delivering results. My experience ranges from refining assembly line efficiency at <strong>Mercedes-Benz</strong> to building machine learning models for <strong> NASA JPL </strong>, all while leading cross-functional teams and ensuring that each project reaches its full potential.
+  Whether it&apos;s optimizing mechanical systems, developing AI-driven solutions, or managing large-scale projects, I am deeply committed to pushing boundaries and delivering results. My experience ranges from refining assembly line efficiency at <strong>Mercedes-Benz</strong> to building machine learning models for <strong>NASA JPL</strong>, all while leading cross-functional teams and ensuring that each project reaches its full potential.
+</p>
 
+<p className="my-4 font-medium">
+  I believe in the power of technology to transform industries, and I&apos;m also comfortable working with control systems as I&apos;m with data science and automation. My goal is to leverage these diverse skill sets to create cutting-edge solutions that have a real, lasting impact.
+</p>
 
-
-              </p>
-              <p className="my-4 font-medium">
-              I believe in the power of technology to transform industries, and I&apos;m also comfortable working with control systems as I am with data science and automation. My goal is to leverage these diverse skill sets to create cutting-edge solutions that have a real, lasting impact.
-
-              </p>
-              <p className="font-medium">
-              Outside of my work, I&apos;m always exploring new advancements in technology and looking for opportunities to apply them in meaningful ways. I enjoy ocassional photography and nature walks. For me, it&apos;s not just about mastering one field—it's about constantly evolving and making a difference, no matter the challenge.
-              </p>
+<p className="font-medium">
+  Outside of my work, I&apos;m always exploring new advancements in technology and looking for opportunities to apply them in meaningful ways. I enjoy occasional photography and nature walks. For me, it&apos;s not just about mastering one field—it&apos;s about constantly evolving and making a difference, no matter the challenge.
+</p>
             </div>
             <div className="relative col-span-3 h-max rounded-2xl border-2 border-solid border-dark 
             bg-light p-8 dark:border-light dark:bg-dark
