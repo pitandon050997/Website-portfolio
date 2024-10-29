@@ -27,12 +27,12 @@ export default function Home() {
               <Image
                 src={profilePic}
                 alt="Piyush"
-                className="h-auto w-auto sm:block"
+                className="h-auto w-auto sm:block sm:mb-4" 
                 sizes="100vw"
                 priority
               />
             </div>
-            <div className="flex w-1/2 flex-col items-center self-center lg:w-full lg:text-center">
+            <div className="flex w-1/2 flex-col items-center self-center lg:w-full lg:text-center sm:mt-4"> 
               <AnimatedText
                 text="Namaste🙏 World!"
                 className="!text-left !text-6xl xl:!text-5xl lg:!text-center lg:!text-6xl md:!text-5xl sm:!text-3xl"
@@ -47,7 +47,6 @@ export default function Home() {
               </p>
               <p className="my-4 text-base font-medium md:text-sm sm:!text-xs">
                   Explore my journey, discover my projects, and be a part of my life that redefines what engineering can achieve.
-              
               </p>
               <div className="mt-2 flex items-center self-start lg:self-center">
                 <Link
