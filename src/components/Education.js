@@ -49,21 +49,21 @@ const Education = () => {
             type="University of Oxford "
             time="June 2019-July 2019"
             place="Summer School Abroad"
-            info="Completed coursework in advanced mathematics topics such as Advanced Calculus, Differential Equations, Number Theory, Abstract Algebra, Linear Algebra, Algebraic Structures, Statistics, Numerical Analysis, Theory of Interest, College Geometry, Non-Euclidean Geometry"
+            info="Completed coursework in advanced mathematics topics such as Advanced Calculus, Differential Equations, Number Theory, Abstract Algebra, Linear Algebra, Algebraic Structures, Statistics, Numerical Analysis, Theory of Interest, College Geometry, Non-Euclidean Geometry."
           />
           <Details
             type="Thapar University"
             time="Jul 2017- Jul 2021"
             place="BE Mechanical Engineering"
             info="Relevant courses included Engineering Mathematics, Engineering Physics, Engineering Mechanics, Material Science and Metallurgy, Thermodynamics, Fluid Mechanics, Strength of Materials, Heat and Mass Transfer, Machine Design, Manufacturing Processes, Control Systems and Robotics, Automobile Engineering, Renewable Energy Systems, Finite Element Analysis (FEA),
-                 Hydraulics and Pneumatics"
+                 Hydraulics and Pneumatics."
           />
 
           <Details
             type="University of Washington"
             time="Sep 2022-Aug 2024"
             place="MS in Mechnaical Engineering with Data engineering specialization"
-            info=" Relevant courses included Artificial Intelligence, Advanced Energy, Mechanical Engineering Analysis, Linear multivariable Systems, State Estimation & Kalman Filtering, Linear Multivariable Control, Database Systems, Machine Learning, Computational Techniques in Mechanical Engineering, Machine Learning Control, Data Driven optimization, Machining of composites "
+            info=" Relevant courses included Artificial Intelligence, Advanced Energy, Mechanical Engineering Analysis, Linear multivariable Systems, State Estimation & Kalman Filtering, Linear Multivariable Control, Database Systems, Machine Learning, Computational Techniques in Mechanical Engineering, Machine Learning Control, Data Driven optimization, Machining of composites."
           />
 
           
