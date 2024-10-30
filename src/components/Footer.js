@@ -13,7 +13,7 @@ const Footer = () => {
         <span>piyush.tandon321@gmail.com</span>
 
         <div className="flex items-center lg:py-2">
-          Made by Piyush <span className="text-primary text-2xl px-1 dark:text-primaryDark"></span>with Next.JS
+          Made by Piyush <span className="text-primary text-2xl px-1 dark:text-primaryDark"></span>with Next.js
           
         </div>
 
