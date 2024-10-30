@@ -58,7 +58,7 @@ export default function About() {
                 BIOGRAPHY
               </h2>
               <p className="font-medium ">
-  Hi, I&apos;m <strong>Piyush Tandon</strong>, a technology enthusiast at heart, driven by a passion for solving complex problems across multiple domains. With a Master&apos;s degree in <strong>Mechanical Engineering</strong> from the <strong>University of Washington</strong> and a background that spans <strong>Manufacturing, Product Design engineering, Data science, and Project management,</strong> I thrive at the intersection of technology and innovation.
+  Hi, I&apos;m <strong>Piyush Tandon</strong>, a technology enthusiast at heart, driven by a passion for solving complex problems across multiple domains. With a Master&apos;s degree in <strong>Mechanical Engineering</strong> from the <strong>University of Washington</strong> and a background that spans <strong>Manufacturing, Supply chain, Product design engineering, Data science, and Project management,</strong> I thrive at the intersection of technology and innovation.
 
   Whether it&apos;s optimizing mechanical systems, developing AI-driven solutions, or managing large-scale projects, I am deeply committed to pushing boundaries and delivering results. My experience ranges from refining assembly line efficiency at <strong>Mercedes-Benz</strong> to building machine learning models for <strong>NASA JPL</strong>, all while leading cross-functional teams and ensuring that each project reaches its full potential.
 </p>
