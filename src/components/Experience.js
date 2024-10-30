@@ -114,17 +114,19 @@ const Experience = () => {
             />
 
             <Details
-              position="Manufacturing Intern (International Internship Program)"
+              position="Manufacturing Intern (Assembly and Supply Chain) International Internship Program"
               company="Mercedes-Benz US International"
               companyLink="https://mbusi.com/"
               time="Feb 2020-Aug 2020"
               address="Vance, AL."
               work={[
-                "Assisted in optimizing manufacturing processes on the assembly line for quality improvements and cycle time reduction.",
+                "Led data-driven optimizations of assembly line layouts for GLE and GLS models, reducing takt time, increasing production by 2%.",
+	              "Utilized Python and SQL to analyze production data, identifying key bottlenecks and proposing solutions that improved workflow.",
+                "Developed predictive models using historical production data to forecast equipment downtime, reducing maintenance by 15%.",
+                "Conducted time series analysis of assembly line performance metrics to identify patterns and inform process improvements.",
+	              "Collaborated with cross-functional teams to design dashboards in Power BI, enabling real-time monitoring of key performance indicators (KPIs) such as takt time, cycle time, and production efficiency.",
                 "Supported the implementation of lean manufacturing techniques to enhance efficiency and minimize waste.",
                 "Conducted time-motion studies to analyze and optimize worker tasks for increased productivity.",
-                "Assisted in troubleshooting production issues and supported root cause analysis for mechanical faults.",
-                "Collaborated with cross-functional engineering teams to integrate new technology and automation tools into the production line.",
                 "Documented findings and created technical reports for process improvements and operational changes.",
 
               ]}
