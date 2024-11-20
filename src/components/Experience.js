@@ -144,7 +144,7 @@ const Experience = () => {
 	              "Organized and managed a team of international volunteers to deliver project goals, overseeing timelines, delegating tasks, and ensuring efficient use of resources. Achieved project milestones consistently through effective team coordination and proactive problem-solving.",
                 "Worked closely with local educators, community leaders, and NGOs to tailor programs to community needs, enhancing engagement and long-term impact. Built relationships across cultural and language barriers to ensure alignment and smooth implementation.",
                 "Collected feedback from participants and stakeholders, adjusting program content and delivery methods for maximum impact. This iterative approach resulted in higher engagement rates and a more effective educational experience.",
-                " Delivered a speech on Sustainable Educational goals at Indian Embassy in Ankara on Pravasi Bharatiya Divas."
+                " Delivered a speech on Sustainable Educational goals at Indian Embassy in Ankara on Pravasi Bharatiya Divas.",
 
 
               ]}
